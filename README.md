@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Rodrigo Faria 👋
 
-<!--
-**rodrigo0089/rodrigo0089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm studying web development
 
-Here are some ideas to get you started:
+#### Current stack
+- Main language: `Javascript`
+- Frontend: `HTML5`, `CSS3`, `Javascript`
+- version code control: `Git & Github`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- Email: rodrigo0089@hotmail.com
+- Linkedin: https://www.linkedin.com/in/rodrigo-faria-165237176/
