@@ -1,7 +1,7 @@
 ### Hi there, I'm Rodrigo Faria 👋
 
 #### About
-I'm studying web development :rocket:[Rocketseat](https://www.rocketseat.com.br)
+I'm studying web development at :rocket:[Rocketseat](https://www.rocketseat.com.br)
 
 #### Current stack
 - :zap:Main language: `Javascript`
